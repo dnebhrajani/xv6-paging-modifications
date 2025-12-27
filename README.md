@@ -176,5 +176,3 @@ Built upon MIT's xv6 teaching operating system. Original xv6 by Frans Kaashoek a
 This project inherits xv6's MIT license. See [LICENSE](LICENSE) file for details.
 
 ---
-
-*This implementation was developed as part of an operating systems course, demonstrating practical understanding of virtual memory, page replacement algorithms, and low-level kernel programming.*
